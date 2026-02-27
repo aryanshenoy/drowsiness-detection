@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large model files — too big for GitHub
+assets/*.pkl
+assets/*.dat
+assets/*.whl
+
+# OS files
+.DS_Store
+Thumbs.db
